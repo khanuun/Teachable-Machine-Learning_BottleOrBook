@@ -1,0 +1,63 @@
+button {
+    background-color: #0E185F;
+    font-family: "Poppins";
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 15%;
+  }
+  
+  button:hover {
+    opacity: 0.2;
+  }
+  
+  body {
+    background-color: #ececec;
+    font-family: "Poppins";
+    align-items: center;
+    height: fit-content;
+  }
+  
+  .isi {
+    background-color: #ececec;
+    align-items: center;
+    height: fit-content;
+  }
+  
+  span {
+    font-family: "Poppins";
+    font-size: 13pt;
+    text-align: center;
+  }
+  
+  span b {
+    font-family: "Earwig Factory", cursive;
+    color: #0E185F;
+    font-size: 50pt;
+    text-align: center;
+  }
+  
+  .label-container {
+    margin: 0 auto;
+    width: 80%;
+    padding: 7px 0;
+    border-radius: 12px;
+    background-color: #e3e2f1;
+    font-size: 12px;
+    color: #000000;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+    background-color: #0E185F;
+    color: #ffffff;
+  }
+  
